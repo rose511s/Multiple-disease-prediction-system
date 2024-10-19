@@ -1,4 +1,5 @@
 # Multiple-disease-prediction-system
+This project is used to detect multiple diseases like diabetes, parkinsons and heart disease prediction and is a machine learning based project where various algorithms of ml are used like SVC, Logistic Regression.
 
 
 #how to run the project
